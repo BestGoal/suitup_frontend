@@ -1,0 +1,25 @@
+.header-first{
+    background:#001f3f;
+    height : 80px;
+    position: fixed;
+    width: 100%;
+}
+.header-second{
+    padding-left : 2%;
+    padding-top : 2%;
+    color : white;
+    font-size : 50px;
+    float : left;
+    cursor : pointer;
+}
+.header-third{
+    float : right;
+    padding-top : 2%;
+    padding-right : 3%;
+}
+.header-four{
+    float:left;
+    margin-left : 20px;
+    color : white;
+    cursor : pointer;
+}

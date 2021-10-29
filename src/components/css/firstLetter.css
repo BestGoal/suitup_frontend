@@ -1,0 +1,17 @@
+
+.firstletter-first{
+    font-weight : bold
+}
+.firstletter-second{
+    color : red
+}
+.firstletter-third{
+    font-size : 20px;
+    line-height : 25px;
+    font-weight : bold;
+}
+.firstletter-big{
+    /* background:#dedede; */
+    color: black;
+    padding: 3%;
+}

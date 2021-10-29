@@ -1,0 +1,121 @@
+button{
+    background: #001f3f;
+    color : white
+}
+button:hover{
+    color : black
+}
+.product-first{
+    padding : 10px;
+    border-radius : 5px;
+    border : 1px solid #001f3f;
+    font-size: 20px;
+    margin-top: 2%;
+}
+.product-second{
+    padding-left : 20%;
+    padding-right : 20%;
+}
+.product-floatLeft{
+    float : left;
+}
+.product-third{
+    text-align : center;
+    border : 1px solid black;
+    color : black;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+.product-four{
+    font-size : 40px;
+    margin : 3%;
+    font-weight : bolder;
+}
+.product-floatLeft{
+    float: left;
+}
+.product-five{
+    padding: 10%;
+    padding-top: 3%;
+    width: 100%;
+}
+.product-five-half{
+    width: 45%;
+    float: left;
+}
+.product-five-textfield{
+    width: 80%;
+}
+.product-six{
+    float: left;
+    margin-left: 10% !important;
+    margin-bottom: 5% !important;
+    padding : 15px;
+    border-radius : 5px;
+    border : 1px solid black;
+    font-size: 20px;
+}
+.card{
+    padding : 10px
+}
+.card-img{
+    width:100% ; height : 120px
+}
+.card-p{
+    float:left
+}
+.card-badge{
+    float:right ; position : relative; top : 2vw; margin-right : 1vw
+}
+.modal-img{
+    width:100%;
+    height: 400px;
+}
+.modal-footer{
+    margin-bottom : 20%
+}
+.modal{
+    width:50%;margin-left : 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal-button-cancel{
+    float : right
+}
+.modal-button-buy{
+    float : right;
+    margin-right : 10px !important;
+}
+.product-card-buyed-image{
+    position: absolute;
+    top: -5%;
+    left: 5%;
+    width: 90%;
+}
+.product-modal-setting{
+    margin-bottom : 50px;
+}
+.product-modal-name{
+    float : left;
+    font-size : 20px;
+}
+.product-modal-badge{
+    float: left;
+    background: #3f51b5;
+    color : white;
+    margin-left: 5%;
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px
+}
+.product-modal-count{
+    float : right;
+    font-size : 20px;
+}
+.product-modal-buyed-image{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    width:50%
+}
